@@ -1,7 +1,7 @@
 [metadata]
 name = "dreamer"
-size = 220
-last_change = 1647756757
+size = 221
+last_change = 1647756760
 
 [members.0]
 member_name = "a1"
@@ -26,3 +26,9 @@ member_name = "padding_2"
 offset = 216
 type = "char[4]"
 size = 4
+
+[members.dc]
+member_name = "field_DC"
+offset = 220
+type = ""
+size = 1
