@@ -1,7 +1,7 @@
 [metadata]
 name = "dreamer"
 size = 317
-last_change = 1647756826
+last_change = 1647756831
 
 [members.0]
 member_name = "a1"
@@ -34,7 +34,7 @@ type = "unsigned __int8[12][8]"
 size = 96
 
 [members.13c]
-member_name = "field_13C"
+member_name = "padding_3"
 offset = 316
 type = ""
 size = 1
