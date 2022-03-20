@@ -3,3 +3,9 @@ last_change = 1647756910
 addr = 12292
 name = "format"
 size = 7
+
+[300b]
+last_change = 1647756912
+addr = 12299
+name = "modes"
+size = 3
