@@ -1,7 +1,7 @@
 [metadata]
 name = "dreamer"
-size = 121
-last_change = 1647756681
+size = 128
+last_change = 1647756717
 
 [members.0]
 member_name = "a1"
@@ -19,4 +19,4 @@ size = 40
 member_name = "field_78"
 offset = 120
 type = ""
-size = 1
+size = 8
