@@ -1,0 +1,7 @@
+[metadata]
+addr = 4128
+size = 13
+
+[header]
+name = "useless_1"
+addr = 4128
