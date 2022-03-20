@@ -15,6 +15,14 @@ type = "__int64[12]"
 size = 96
 addr = 4937
 
+[stack_vars.-19e]
+stack_offset = -414
+stack_offset_type = 1
+name = "match_idx"
+type = "unsigned __int8"
+size = 1
+addr = 4937
+
 [header.args.0]
 idx = 0
 name = "buf"
