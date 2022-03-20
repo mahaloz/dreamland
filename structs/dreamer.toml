@@ -1,6 +1,10 @@
 [metadata]
 name = "dreamer"
-size = 0
-last_change = 1647756599
+size = 2
+last_change = 1647756605
 
-[members]
+[members.0]
+member_name = "field_0"
+offset = 0
+type = ""
+size = 2
