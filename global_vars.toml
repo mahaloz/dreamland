@@ -2,3 +2,8 @@
 addr = 12292
 name = "format"
 size = 7
+
+[300b]
+addr = 12299
+name = "modes"
+size = 3
