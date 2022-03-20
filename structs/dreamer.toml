@@ -1,10 +1,10 @@
 [metadata]
 name = "dreamer"
 size = 80
-last_change = 1647756639
+last_change = 1647756649
 
 [members.0]
-member_name = "field_0"
+member_name = "a1"
 offset = 0
 type = "unsigned __int8[10][8]"
 size = 80
