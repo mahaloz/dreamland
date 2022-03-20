@@ -1,10 +1,10 @@
 [metadata]
 addr = 7039
 size = 168
-last_change = 1647756430
+last_change = 1647756507
 
 [header]
-last_change = 1647756430
+last_change = 1647756507
 name = "__nightmare"
 addr = 7039
 ret_type = "unsigned __int64"
@@ -12,7 +12,7 @@ ret_type = "unsigned __int64"
 [header.args.0]
 idx = 0
 name = "a1"
-type_str = "__int64"
+type_str = "char *"
 size = 8
 
 [header.args.1]
