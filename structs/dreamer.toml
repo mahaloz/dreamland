@@ -1,7 +1,7 @@
 [metadata]
 name = "dreamer"
-size = 120
-last_change = 1647756670
+size = 82
+last_change = 1647756673
 
 [members.0]
 member_name = "a1"
@@ -12,5 +12,5 @@ size = 80
 [members.50]
 member_name = "padding"
 offset = 80
-type = "char[40]"
-size = 40
+type = ""
+size = 2
