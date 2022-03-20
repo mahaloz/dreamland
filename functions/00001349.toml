@@ -1,7 +1,7 @@
 [metadata]
 addr = 4937
 size = 586
-last_change = 1647760844
+last_change = 1647760922
 
 [header]
 last_change = 1647760571
@@ -16,6 +16,15 @@ stack_offset_type = 1
 name = "output_arr"
 type = "__int8[96]"
 size = 96
+addr = 4937
+
+[stack_vars.-19e]
+last_change = 1647760922
+stack_offset = -414
+stack_offset_type = 1
+name = "match_idx"
+type = "unsigned __int8"
+size = 1
 addr = 4937
 
 [header.args.0]
