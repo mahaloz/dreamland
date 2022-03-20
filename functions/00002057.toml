@@ -1,0 +1,11 @@
+[metadata]
+addr = 8279
+size = 735
+
+[stack_vars.-30]
+stack_offset = -48
+stack_offset_type = 1
+name = "dreamer"
+type = "void *"
+size = 8
+addr = 8279
