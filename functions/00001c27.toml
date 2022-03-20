@@ -1,0 +1,16 @@
+[metadata]
+addr = 7207
+size = 239
+last_change = 1647756925
+
+[header]
+last_change = 1647756925
+name = "create_dream"
+addr = 7207
+ret_type = "__int64"
+
+[header.args.0]
+idx = 0
+name = "a1"
+type_str = "dreamer *"
+size = 8
