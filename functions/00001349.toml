@@ -1,17 +1,17 @@
 [metadata]
 addr = 4937
 size = 586
-last_change = 1647759844
+last_change = 1647759863
 
 [header]
-last_change = 1647759844
+last_change = 1647759863
 name = "__nightmare_r"
 addr = 4937
 ret_type = "unsigned __int64"
 
 [header.args.0]
 idx = 0
-name = "a1"
+name = "buf"
 type_str = "__int64 *"
 size = 8
 
