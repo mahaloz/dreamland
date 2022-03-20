@@ -5,12 +5,12 @@ size = 168
 [header]
 name = "__nightmare"
 addr = 7039
-ret_type = "unsigned __int64"
+ret_type = "__int64"
 
 [header.args.0]
 idx = 0
 name = "a1"
-type_str = "__int64"
+type_str = "char *"
 size = 8
 
 [header.args.1]
@@ -21,12 +21,12 @@ size = 8
 
 [header.args.2]
 idx = 2
-name = "a3"
+name = "zero_1"
 type_str = "char"
 size = 1
 
 [header.args.3]
 idx = 3
-name = "a4"
-type_str = "unsigned __int8"
+name = "zero_2"
+type_str = "char"
 size = 1
