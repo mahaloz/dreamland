@@ -10,7 +10,7 @@ ret_type = "unsigned __int64"
 [stack_vars.-88]
 stack_offset = -136
 stack_offset_type = 1
-name = "output_arr"
+name = "v16"
 type = "__int64[12]"
 size = 96
 addr = 4937
