@@ -1,0 +1,39 @@
+[metadata]
+name = "dreamer"
+size = 320
+
+[members.0]
+member_name = "a1"
+offset = 0
+type = "unsigned __int8[10][8]"
+size = 80
+
+[members.50]
+member_name = "padding"
+offset = 80
+type = "char[40]"
+size = 40
+
+[members.78]
+member_name = "a2"
+offset = 120
+type = "unsigned __int8[12][8]"
+size = 96
+
+[members.d8]
+member_name = "padding_2"
+offset = 216
+type = "char[4]"
+size = 4
+
+[members.dc]
+member_name = "a3"
+offset = 220
+type = "unsigned __int8[12][8]"
+size = 96
+
+[members.13c]
+member_name = "padding_3"
+offset = 316
+type = "char[4]"
+size = 4
